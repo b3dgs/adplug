@@ -60,6 +60,7 @@
 
 #include "../../common/pa_util.h"
 #include "../../common/pa_debugprint.h"
+#include "pa_unix_util.h"
 
 /*
    Track memory allocations to avoid leaks.
