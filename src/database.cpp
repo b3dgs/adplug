@@ -21,8 +21,8 @@
  * Copyright (c) 2002, 2003, 2006 Simon Peter <dn.tlp@gmx.net>
  */
 
-#include "../../libbinio/binio.h"
-#include "../../libbinio/src/binfile.h"
+#include "../libbinio/contrib/vs2015/libbinio/binio.h"
+#include "../libbinio/src/binfile.h"
 #include <string.h>
 
 #include "database.h"

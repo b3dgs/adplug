@@ -27,7 +27,7 @@
 
 #include <cstring>
 #include <string>
-#include "../../libbinio/src/binfile.h"
+#include "../libbinio/src/binfile.h"
 
 #include "adplug.h"
 #include "debug.h"
