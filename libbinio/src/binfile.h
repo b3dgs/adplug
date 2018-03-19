@@ -22,7 +22,7 @@
 
 #include <stdio.h>
 
-#include "../libbinio/binio.h"
+#include "../contrib/vs2015/libbinio/binio.h"
 
 class binfbase: virtual public binio
 {

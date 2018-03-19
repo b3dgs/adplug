@@ -20,7 +20,7 @@
 #ifndef H_BINIO_BINWRAP
 #define H_BINIO_BINWRAP
 
-#include "../libbinio/binio.h"
+#include "../contrib/vs2015/libbinio/binio.h"
 
 #if BINIO_ENABLE_IOSTREAM
 

@@ -20,7 +20,7 @@
 #ifndef H_BINIO_BINSTR
 #define H_BINIO_BINSTR
 
-#include "../libbinio/binio.h"
+#include "../contrib/vs2015/libbinio/binio.h"
 
 class binsbase: virtual public binio
 {
