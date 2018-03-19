@@ -20,8 +20,8 @@
  */
 
 #include <string.h>
-#include <binio.h>
-#include <binfile.h>
+#include "../../libbinio/contrib/vs2015/libbinio/binio.h"
+#include "../../libbinio/src/binfile.h"
 
 #include "fprovide.h"
 
