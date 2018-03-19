@@ -23,7 +23,7 @@
 #define H_ADPLUG_FILEPROVIDER
 
 #include <string>
-#include "../../libbinio/contrib/vs2015/libbinio/binio.h"
+#include "../libbinio/binio.h"
 
 #ifdef _LINUX
 #define stricmp strcasecmp

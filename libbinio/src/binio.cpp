@@ -19,7 +19,7 @@
 
 #include <string.h>
 
-#include "../contrib/vs2015/libbinio/binio.h"
+#include "../libbinio/binio.h"
 
 #if BINIO_WITH_MATH
 
