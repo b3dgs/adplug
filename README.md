@@ -7,7 +7,6 @@ Only necessary code kept, provided with two Eclipse profiles (Windows + MinGW & 
 
 PortAudio used for wave output (Winmm for Windows & ALSA for Linux).
 
-
 ## Forked from AdPlug (https://github.com/adplug/adplug)
 A free AdLib sound player library
 Copyright (C) 1999 - 2017 Simon Peter, et al.
